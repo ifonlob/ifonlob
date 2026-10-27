@@ -82,12 +82,6 @@ Me gusta aprender construyendo proyectos y enfrentándome a problemas reales. In
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ifonlob&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad en GitHub" width="100%" />
-
-</div>
-
-<div align="center">
-
 Un proyecto cada vez, aprendiendo en el proceso. 💜
 
 </div>
