@@ -37,21 +37,17 @@ Me gusta aprender desarrollando proyectos, experimentar con nuevas tecnologías 
 
 🚀 Proyectos destacados
 
-🗺️ Enciclopedia Hyrule
+🗺️ [Enciclopedia Hyrule](https://github.com/ifonlob/EnciclopediaHyrule)
 
 Plataforma web para explorar información del universo de The Legend of Zelda, consultar datos mediante una API y gestionar favoritos.
 
 Tecnologías: JavaScript · API REST · Firebase Firestore
 
-🌐 Visitar la demo · 💻 Ver el código
-
-🎮 NintendoManía
+🎮 [NintendoManía](https://github.com/ifonlob/Proyecto-NintendoMania)
 
 Portal web dedicado al análisis y la exploración de distintas sagas de Nintendo, con páginas temáticas y contenido organizado.
 
 Tecnologías: HTML · CSS · JavaScript
-
-🌐 Visitar la demo · 💻 Ver el código
 
 🌱 Actualmente
 
